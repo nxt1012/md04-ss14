@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03db7d36-c59e-4136-b593-72d7a75344fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/model/dao/IGenericDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/model/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/model/dao/UserDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/model/dao/utils/ConnectionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/model/dao/utils/queries.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/model/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/service/IGenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ra/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/css/AdminLTE.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/css/_all-skins.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/css/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/css/nestable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/avatar04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/avatar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/avatar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/boxed-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/boxed-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/credit/american-express.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/credit/cirrus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/credit/mastercard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/credit/mestro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/credit/paypal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/credit/paypal2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/credit/visa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/default-50x50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/no-ig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/photo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/photo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/photo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/photo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/user1-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/user2-160x160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/user3-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/user4-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/user5-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/user6-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/user7-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/images/user8-128x128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/js/adminlte.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/js/angular.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/js/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/js/function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/js/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/js/jquery.nestable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/admin/category/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/admin/category/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/admin/category/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/admin/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/admin/layouts/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/admin/layouts/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/admin/layouts/scripts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/admin/layouts/sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/user/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/user/register.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YR5SB14Wuu9gBECnvxtuHio4jE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Mak/Desktop/Downloads/clone/demo-thymeleaf/src/main/java/com/ra/model/utils",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mak\Desktop\Downloads\clone\demo-thymeleaf\src\main\java\com\ra\model\utils" />
+      <recent name="C:\Users\Mak\Desktop\Downloads\clone\demo-thymeleaf\src\main\webapp\views\admin\category" />
+      <recent name="C:\Users\Mak\Desktop\Downloads\clone\demo-thymeleaf\src\main\webapp\views" />
+      <recent name="C:\Users\Mak\Desktop\Downloads\clone\demo-thymeleaf\src\main\webapp" />
+      <recent name="C:\Users\Mak\Desktop\Downloads\clone\demo-thymeleaf\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mak\Desktop\Downloads\clone\demo-thymeleaf\src\main\java\com\ra\model\dao" />
+      <recent name="C:\Users\Mak\Desktop\Downloads\clone\demo-thymeleaf\src\main\webapp\views" />
+      <recent name="C:\Users\Mak\Desktop\Downloads\clone\demo-thymeleaf\src\main\java\com\ra\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.43" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.43" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080" />
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : com.ra : demo-thymeleaf-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="b54b5dc5-0faa-4fac-a42b-2418a5c47a17" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8422" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.ra : demo-thymeleaf-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03db7d36-c59e-4136-b593-72d7a75344fe" name="Changes" comment="" />
+      <created>1700475551117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700475551117</updated>
+      <workItem from="1700475552310" duration="17172000" />
+      <workItem from="1700556937119" duration="14149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
